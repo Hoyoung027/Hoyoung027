@@ -60,27 +60,23 @@
 - **Constant Inc., Web & App Squad** Intern (2025.12 - 2026.02)
 
 ### 🏃 Activities
-- [Likelion Yonsei 12nd](https://likelion.university/) Backend (2024.03 - 2025.01)
-- [SOPT 35th](https://www.sopt.org/) Server (2024.09 - 2025.02)
-- [Likelion Yonsei 13th](https://www.likelion-yonsei.com/) President (2025.02 - 2026.01)
-- [CEOS 22nd](https://ceos-sinchon.com/) Backend (2025.09 - 2026.02)
-- [CEOS 23rd](https://ceos-sinchon.com/) Backend Lead (2026.02 -)
+- **[Likelion Yonsei 12th](https://likelion.university/)** Backend (2024.03 - 2025.01)
+- **[SOPT 35th](https://www.sopt.org/)** Server (2024.09 - 2025.02)
+- **[Likelion Yonsei 13th](https://www.likelion-yonsei.com/)** President (2025.02 - 2026.01)
+- **[CEOS 22nd](https://ceos-sinchon.com/)** Backend (2025.09 - 2026.02)
+- **[CEOS 23rd](https://ceos-sinchon.com/)** Backend Lead (2026.02 -)
 
 
 
 ### 🚀 Projects
 
-- **[디긴디 (Diggindie)](https://www.diggindie.com/)**
-끊김 없는 디깅을 위한 인디 밴드 · 공연 통합 탐색 플랫폼 — Backend & AI 개발
-
+- **[Diggindie](https://www.diggindie.com/)**
+끊김 없는 디깅을 위한 인디 밴드 · 공연 통합 탐색 플랫폼 — Backend & AI
 - **[절로가](https://www.gototemplestay.com/)**
-템플스테이 간편 탐색 서비스 — Backend 개발
-
-- **[Scent of Blue](https://scent-yonsei.com/)**
-연세대학교 2025 무악 대동제 공식 웹사이트 — Backend 개발
-
-- **사이 (SAI)**
-질문으로 생각을 이어가는 실시간 대화 플랫폼 — Frontend 개발
-
+템플스테이 간편 탐색 서비스 — Backend
+- **사이(SAI)**
+질문으로 생각을 이어가는 실시간 대화 플랫폼 — Frontend 
 - **Child Abuse Detection**
-CCTV 영상 기반 AI 아동학대 감지 자동화 프로젝트 — AI 개발
+CCTV 영상 기반 AI 아동학대 감지 자동화 프로젝트 — AI
+- **[Scent of Blue](https://scent-yonsei.com/)**
+연세대학교 2025 무악 대동제 공식 웹사이트 — Backend 
