@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hoyoung's%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-stack&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hoyoung's%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoyoung027&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyoung027&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoyoung027&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyoung027&layout=compact&theme=github_dark&hide_border=true&text_color=ffffff" height="160"/>
 </p>
+
 
 ## 🛠 Tech Stack
 
