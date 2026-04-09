@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764&count_private=true&rank_icon=github" width="45%"/></a>&nbsp;<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hoyoung027&utm_content=farm"><img src="https://render.gitanimals.org/farms/Hoyoung027" width="45%"/></a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="45%"/></a>&nbsp;<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hoyoung027&utm_content=farm"><img src="https://render.gitanimals.org/farms/Hoyoung027" width="45%"/></a>
 </div>
 
 
