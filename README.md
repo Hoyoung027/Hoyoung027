@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hoyoung's%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoyoung027&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoyoung027&layout=compact&theme=github_dark&hide_border=true&text_color=ffffff" height="160"/>
-</p>
+<div align="center">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hoyoung027&show_icons=true&bg_color=DFE3EB&title_color=799CBD&text_color=2C323F&icon_color=4D5764&count_private=true&rank_icon=github" width="45%"/></a>&nbsp;<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hoyoung027&utm_content=farm"><img src="https://render.gitanimals.org/farms/Hoyoung027" width="45%"/></a>
+</div>
 
 
 ## 🛠 Tech Stack
