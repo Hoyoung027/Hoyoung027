@@ -56,15 +56,16 @@
 
 
 ### 💼 Internship
-- **Yonsei University Edge AI Lab**, Research Intern (2025.06 -)
+- **[Yonsei University Edge AI Lab](https://sites.google.com/view/djhan930)**, Research Intern (2025.06 - 2026.04)
 - **Constant Inc., Web & App Squad** Intern (2025.12 - 2026.02)
+- **[Yonsei University ASO Lab](https://sites.google.com/view/asolabysu/home)**, Research Intern (2026.06 -)
 
 ### 🏃 Activities
 - **[Likelion Yonsei 12th](https://likelion.university/)** Backend (2024.03 - 2025.01)
 - **[SOPT 35th](https://www.sopt.org/)** Server (2024.09 - 2025.02)
 - **[Likelion Yonsei 13th](https://www.likelion-yonsei.com/)** President (2025.02 - 2026.01)
 - **[CEOS 22nd](https://ceos-sinchon.com/)** Backend (2025.09 - 2026.02)
-- **[CEOS 23rd](https://ceos-sinchon.com/)** Backend Lead (2026.02 -)
+- **[CEOS 23rd](https://ceos-sinchon.com/)** Backend Lead (2026.02 - 2026.08)
 
 
 
